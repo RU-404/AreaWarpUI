@@ -18,12 +18,11 @@ namespace Ru\AreaWarpUI;
  * @github : github.com/RU-404
  */
 
-use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
 use Ru\AreaWarpUI\command\warpCommand;
 
-class AreaWarpUI extends PluginBase implements Listener
+class AreaWarpUI extends PluginBase
 {
 
     public function onEnable()
