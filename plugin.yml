@@ -1,0 +1,11 @@
+name: AreaWarpUI
+description: Warp To Area!
+main: Ru\AreaWarpUI\AreaWarpUI
+api: [3.0.0]
+version: 0.0.1
+author: IamRU_
+
+permissions:
+  Warp.area:
+    default: true
+    description: "Warp To AREA!"
